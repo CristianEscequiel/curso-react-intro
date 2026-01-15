@@ -1,13 +1,27 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url('https://fonts.googleapis.com/css2?family=VT323&family=IBM+Plex+Mono:wght@400;600&family=Press+Start+2P&display=swap');
+
+#root {
+  position: relative;
+  flex-direction: column;
+  align-items: center; 
+  text-align: center;
+  min-height: 100vh;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+:root {
+  --bg-main: #0D0F12;
+  --bg-panel: #1F271C;
+  --green-primary: #39FF14;
+  --green-secondary: #6AFF92;
+  --green-muted: #2E3A2B;
+}
+
+body {
+  justify-items: center;
+  background-color: var(--bg-main);
+  color: var(--green-primary);
+  font-family: 'VT323', monospace;
+  font-size: 18px;
+  margin: 0;
+  padding: 0;
 }
