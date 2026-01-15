@@ -1,75 +1,78 @@
-# Repositorio base del Curso de Introducción a React.js en Platzi
+Proyecto React – Introducción y Fundamentos
 
-¡Hola, Platzinauta!
+Este proyecto fue desarrollado como parte del Curso de Introducción a React.js de Platzi, con el objetivo de adquirir y consolidar los fundamentos clave del ecosistema React mediante la construcción de una aplicación funcional.
 
-En este repositorio encontrarás el código de todas las clases del [Curso de Introducción a React.js](https://platzi.com/reactjs). Para empezar solo debes clonar este repositorio (`git clone`), instalar sus dependencias (`npm i`) y ejecutar la aplicación (`npm start`).
+🔗 Demo online:
+👉 https://cristianescequiel.github.io/curso-react-intro/
 
-La rama principal contiene el código con el que eempezamos el curso. En las demás ramas encontrarás el código de las siguientes clases y finalmente el deploy de la aplicación.
+📌 Descripción del proyecto
 
-¡Mucha suerte aprendiendo React! #NuncaParesDeAprender
+La aplicación implementa los conceptos esenciales de React, enfocándose en la correcta gestión del estado, la composición de componentes y el flujo de datos.
+El proyecto fue construido paso a paso siguiendo el curso, aplicando buenas prácticas y entendiendo el por qué de cada herramienta utilizada.
 
-## Getting Started with Create React App
+Este repositorio refleja mi proceso de aprendizaje y mi capacidad para aplicar conceptos teóricos en un proyecto práctico.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🛠️ Tecnologías y conceptos aprendidos
 
-## Available Scripts
+Durante el desarrollo del proyecto trabajé con:
 
-In the project directory, you can run:
+React
 
-### `npm start`
+Create React App
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Componentes funcionales
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Props
 
-### `npm run build`
+State y manejo de estado
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Hooks
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+useState
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+useEffect
 
-### `npm run eject`
+Context API (manejo de estado global)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+React Portals
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Renderizado condicional
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Buenas prácticas de estructura y reutilización de componentes
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+🎯 Objetivo del proyecto
 
-## Learn More
+Comprender los fundamentos de React
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Entender el ciclo de vida de los componentes
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Manejar el estado de forma local y global
 
-### Code Splitting
+Aprender a estructurar una aplicación React desde cero
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Sentar una base sólida para proyectos más complejos
 
-### Analyzing the Bundle Size
+🚀 Scripts disponibles
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+En el directorio del proyecto podés ejecutar:
 
-### Making a Progressive Web App
+npm install
+npm start
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+Ejecuta la app en modo desarrollo en
+http://localhost:3000
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+npm run build
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Genera una versión optimizada para producción.
 
-### `npm run build` fails to minify
+👤 Autor
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Cristian Arguello
+Frontend Developer
+Especializado en Angular y con conocimientos en React
+
+📎 LinkedIn: (podés agregar tu link)
+📂 GitHub: https://github.com/cristianescequiel
