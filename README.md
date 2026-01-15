@@ -75,4 +75,4 @@ Frontend Developer
 Especializado en Angular y con conocimientos en React
 
 📎 LinkedIn: (podés agregar tu link)
-📂 GitHub: https://github.com/cristianescequiel
+📂 GitHub: [(https://cristianescequiel.github.io/curso-react-intro/]
